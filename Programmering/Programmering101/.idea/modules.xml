@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bolcher/Bolcher.iml" filepath="$PROJECT_DIR$/Bolcher/Bolcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00 Intro/L00 Intro.iml" filepath="$PROJECT_DIR$/L00 Intro/L00 Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01 Java intro/L01 Java intro.iml" filepath="$PROJECT_DIR$/L01 Java intro/L01 Java intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02 Variable og scanner/L02 Variable og scanner.iml" filepath="$PROJECT_DIR$/L02 Variable og scanner/L02 Variable og scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03 If-else og metoder/L03 If-else og metoder.iml" filepath="$PROJECT_DIR$/L03 If-else og metoder/L03 If-else og metoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 While loops/L04 While loops.iml" filepath="$PROJECT_DIR$/L04 While loops/L04 While loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 While med grafik/L05 While med grafik.iml" filepath="$PROJECT_DIR$/L05 While med grafik/L05 While med grafik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 For og for med grafik/L06 For og for med grafik.iml" filepath="$PROJECT_DIR$/L06 For og for med grafik/L06 For og for med grafik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Array/L07 Array.iml" filepath="$PROJECT_DIR$/L07 Array/L07 Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08 2-dim array/L08 2-dim array.iml" filepath="$PROJECT_DIR$/L08 2-dim array/L08 2-dim array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11 Brug af objekter/L11 Brug af objekter.iml" filepath="$PROJECT_DIR$/L11 Brug af objekter/L11 Brug af objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11 Shapes/L11 Shapes.iml" filepath="$PROJECT_DIR$/L11 Shapes/L11 Shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12 Klasser og objekter/L12 Klasser og objekter.iml" filepath="$PROJECT_DIR$/L12 Klasser og objekter/L12 Klasser og objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13 Klasser og objekter2/L13 Klasser og objekter2.iml" filepath="$PROJECT_DIR$/L13 Klasser og objekter2/L13 Klasser og objekter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14 -/L14 -.iml" filepath="$PROJECT_DIR$/L14 -/L14 -.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16 - ArrayList/L16 - ArrayList.iml" filepath="$PROJECT_DIR$/L16 - ArrayList/L16 - ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17 - GUI1/L17 - GUI1.iml" filepath="$PROJECT_DIR$/L17 - GUI1/L17 - GUI1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18 - GUI2/L18 - GUI2.iml" filepath="$PROJECT_DIR$/L18 - GUI2/L18 - GUI2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20 - Searching/L20 - Searching.iml" filepath="$PROJECT_DIR$/L20 - Searching/L20 - Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21-22 - Yatzy/L21-22 - Yatzy.iml" filepath="$PROJECT_DIR$/L21-22 - Yatzy/L21-22 - Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23 - Forbindelser og Arkitektur/L23 - Forbindelser og Arkitektur.iml" filepath="$PROJECT_DIR$/L23 - Forbindelser og Arkitektur/L23 - Forbindelser og Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24 - Forbindelser og Arkitektur/L24 - Forbindelser og Arkitektur.iml" filepath="$PROJECT_DIR$/L24 - Forbindelser og Arkitektur/L24 - Forbindelser og Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27 - Sortering/L27 - Sortering.iml" filepath="$PROJECT_DIR$/L27 - Sortering/L27 - Sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28 - Textfile Exceptions/L28 - Textfile Exceptions.iml" filepath="$PROJECT_DIR$/L28 - Textfile Exceptions/L28 - Textfile Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L29 - Fletning/L29 - Fletning.iml" filepath="$PROJECT_DIR$/L29 - Fletning/L29 - Fletning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L33 - Repetition/L33 - Repetition.iml" filepath="$PROJECT_DIR$/L33 - Repetition/L33 - Repetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1 - Terningspil/P1 - Terningspil.iml" filepath="$PROJECT_DIR$/P1 - Terningspil/P1 - Terningspil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2 - Klasser og arrays/P2 - Klasser og arrays.iml" filepath="$PROJECT_DIR$/P2 - Klasser og arrays/P2 - Klasser og arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3 - Teaterforstilling/P3 - Teaterforstilling.iml" filepath="$PROJECT_DIR$/P3 - Teaterforstilling/P3 - Teaterforstilling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4 - KAS/P4 - KAS.iml" filepath="$PROJECT_DIR$/P4 - KAS/P4 - KAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 While loops/Pink/Pink.iml" filepath="$PROJECT_DIR$/L04 While loops/Pink/Pink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering101.iml" filepath="$PROJECT_DIR$/Programmering101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU/SU.iml" filepath="$PROJECT_DIR$/SU/SU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2017/Semesterprove2017.iml" filepath="$PROJECT_DIR$/Semesterprove2017/Semesterprove2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2018/Semesterprove2018.iml" filepath="$PROJECT_DIR$/Semesterprove2018/Semesterprove2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2021/Semesterprove2021.iml" filepath="$PROJECT_DIR$/Semesterprove2021/Semesterprove2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2022/Semesterprove2022.iml" filepath="$PROJECT_DIR$/Semesterprove2022/Semesterprove2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2023/Semesterprove2023.iml" filepath="$PROJECT_DIR$/Semesterprove2023/Semesterprove2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2023januar/Semesterprove2023januar.iml" filepath="$PROJECT_DIR$/Semesterprove2023januar/Semesterprove2023januar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letstryagain/letstryagain.iml" filepath="$PROJECT_DIR$/letstryagain/letstryagain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semesterprove2018/model/model.iml" filepath="$PROJECT_DIR$/Semesterprove2018/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bolcher/src/src.iml" filepath="$PROJECT_DIR$/Bolcher/src/src.iml" />
+    </modules>
+  </component>
+</project>

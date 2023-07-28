@@ -1,0 +1,16 @@
+
+Stine:
+Android   300
+Python   200
+Aftaltpris: 450  Rabat: 50
+
+Laura:
+Regnbukser   80
+Regnjakke   100
+Aftaltpris: 120  Rabat: 60
+
+Viktor:
+Aftaltpris: 80  Rabat: -80
+
+Henrik:
+Aftaltpris: 1234  Rabat: -1234
